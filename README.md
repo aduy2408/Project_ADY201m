@@ -1,3 +1,5 @@
+## Context
+- This is a linear regression project for the course ADY201m at FPT University, which contains all the steps from identifying the problems to scraping for data and building a model.
 ## Installation
 ### Depedencies requirement:
 - Selenium
