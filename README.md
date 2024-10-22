@@ -27,7 +27,7 @@ cd Project_ADY201m
 
 - Then you can use the data you scraped youself. 
 
-### Attention
+## Attention
 - This project used selenium so speed is out of the question(relatively slow) and sometimes get detected by the website.
 - You can use Warp from CloudFlare to bypass some of the websites like ```batdongsan.com.vn```,```guland.vn```, ```nhadatvui.vn```
 - As for alonhadat, since the website updated its scraping detection, it relied on identifying images so we could only bypass by hands.
