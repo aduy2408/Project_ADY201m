@@ -9,6 +9,7 @@
 - Numpy
 - Pandas
 - Folium (optional) 
+- pymysql (for storing in database)
 - Python 3.x
 ### Installing
 - After satisfying all the requirement dependencies, you can download the repo:
